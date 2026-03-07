@@ -28,6 +28,13 @@ Me chamo Shelldon Weslly, tenho 21 anos e sou natural do Rio Grande do Norte.Sou
             src="https://custom-icon-badges.demolab.com/github/followers/shelldon-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://discord.com/users/xexeu_77">
+        <img 
+            alt="Discord" 
+            title="Converse comigo no Discord (xexeuzin ツ)" 
+            src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
@@ -53,4 +60,3 @@ Me chamo Shelldon Weslly, tenho 21 anos e sou natural do Rio Grande do Norte.Sou
 
 <br/>
 <br/>
-
