@@ -14,6 +14,13 @@ Me chamo Shelldon Weslly, tenho 21 anos e sou natural do Rio Grande do Norte.Sou
             src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
+    <a href="https://discord.com/users/xexeu_77">
+        <img 
+            alt="Discord" 
+            title="Converse comigo no Discord (xexeuzin ツ)" 
+            src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"
+        />
+    </a>
     <a href="https://github.com/shelldon-dev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -26,13 +33,6 @@ Me chamo Shelldon Weslly, tenho 21 anos e sou natural do Rio Grande do Norte.Sou
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/shelldon-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://discord.com/users/xexeu_77">
-        <img 
-            alt="Discord" 
-            title="Converse comigo no Discord (xexeuzin ツ)" 
-            src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"
         />
     </a>
 </p>
