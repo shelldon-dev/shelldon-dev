@@ -1,6 +1,6 @@
 ## HELLO WORLD
 
-# 👩🏻‍💻 Shelldon Dev
+#  Shelldon Dev
 
 **`Desenvolvedor`**
 
@@ -32,7 +32,7 @@ Me chamo Shelldon Weslly, tenho 21 anos e sou natural do Rio Grande do Norte.Sou
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
