@@ -4,7 +4,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Shelldon Weslly, tenho 21 anos e sou natural do Rio Grande do Norte.Sou técnico em Meio Ambiente pelo IFRN – Campus Ipanguaçu e estudante de Sistemas de Informação, construindo uma trajetória marcada pela curiosidade intelectual e pela busca constante de inovação. Tenho grande entusiasmo pela Engenharia de Software e também interesse em back-end e cibersegurança, áreas que considero estratégicas para o desenvolvimento de soluções robustas e seguras. Minha formação multidisciplinar me permite transitar entre diferentes perspectivas, trazendo propostas originais e criativas para desafios complexos.
+Me chamo Shelldon Weslly, tenho 21 anos e sou natural do Rio Grande do Norte.Sou técnico em Meio Ambiente pelo IFRN – Campus Ipanguaçu e estudante de Sistemas de Informação, construindo uma trajetória marcada pela curiosidade intelectual e pela busca constante de inovação. Tenho grande entusiasmo pela Engenharia de Software e também interesse em Full Stack e cibersegurança, áreas que considero estratégicas para o desenvolvimento de soluções robustas e seguras. Minha formação multidisciplinar me permite transitar entre diferentes perspectivas, trazendo propostas originais e criativas para desafios complexos.
 
 <p align="left">
     <a href="https://www.instagram.com/shelldon_weslly/">
