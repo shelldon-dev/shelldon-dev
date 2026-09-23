@@ -4,11 +4,6 @@
 
 **`Desenvolvedor`**
 
-<img
-    alt="Áreas de atuação"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&width=520&height=30&lines=Engenharia+de+Software;Desenvolvimento+Full+Stack;Modelagem+e+consultas+SQL;Projeto+e+consumo+de+APIs+REST"
-/>
-
 Me chamo Shelldon Weslly, tenho 22 anos e sou natural do Rio Grande do Norte. Sou técnico em Meio Ambiente pelo IFRN – Campus Ipanguaçu e estudante de Sistemas de Informação, construindo uma trajetória marcada pela curiosidade intelectual e pela busca constante de inovação. Tenho grande entusiasmo pela Engenharia de Software e também interesse em Full Stack, áreas que considero estratégicas para o desenvolvimento de soluções robustas. Minha formação multidisciplinar me permite transitar entre diferentes perspectivas, trazendo propostas originais e criativas para desafios complexos.
 
 <p align="left">
