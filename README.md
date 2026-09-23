@@ -86,5 +86,23 @@ Me chamo Shelldon Weslly, tenho 22 anos e sou natural do Rio Grande do Norte. So
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL (MySQL)" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="API REST"
+    title="API REST" 
+    height="40px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/API%20REST-009688?style=for-the-badge&logo=fastapi&logoColor=white" 
+/>
+
 <br/>
 <br/>
